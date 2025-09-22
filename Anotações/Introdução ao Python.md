@@ -26,7 +26,7 @@ Python foi criado por Guido van Rossum, um programador holandês, no final dos a
 
 **Ciência de dados**: É a linguagem preferida para análise de dados e ciência de dados devido a bibliotecas como NumPy, Pandas e Matplotlib.
 
-**Inteligência artificial e machine learning**: É a escolhe principal para projetos de IA e machine learning, graças a bibliotecas como TensorFlow e Scikit-learn.
+**Inteligência artificial e machine learning**: É a escolha principal para projetos de IA e machine learning, graças a bibliotecas como TensorFlow e Scikit-learn.
 
 **Automatização de tafefas**: Pode ser utilizado para automatizar tarefas repetitivas, como processamento de arquivos, web scraping e testes de software.
 
@@ -55,7 +55,7 @@ Para usar Jupyter Notebook:
     
 4. Clique em "New" e selecione "Python 3" para criar um novo caderno (*notebook)*.
 
-### Executar pelo linha de comando
+### Executar pela linha de comando
 
 ```
 python .\ola_mundo.py // nome do arquivo                                                                             
